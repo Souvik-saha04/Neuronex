@@ -8,7 +8,8 @@
 ![Health Tech](https://img.shields.io/badge/Health_Tech-AI_Powered-red?style=for-the-badge&logo=heart)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5_Supported-blue?style=for-the-badge)
-
+> 🔍 Curious to explore NEURONEX in detail?  
+> 👉 **[Click here to view the complete project](YOUR_LINK_HERE)**
 ---
 
 ## 📌 Table of Contents
