@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5_Supported-blue?style=for-the-badge)
 > 🔍 Curious to explore NEURONEX in detail?  
-> 👉 **[Click here to view the complete project]([YOUR_LINK_HERE](https://souvik-saha04.github.io/Neuronex/))**
+> 👉 **[Click here to view the complete project](https://souvik-saha04.github.io/Neuronex/)**
 ---
 
 ## 📌 Table of Contents
