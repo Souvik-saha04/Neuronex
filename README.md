@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5_Supported-blue?style=for-the-badge)
 > 🔍 Curious to explore NEURONEX in detail?  
-> 👉 **[Click here to view the complete project](YOUR_LINK_HERE)**
+> 👉 **[Click here to view the complete project]([YOUR_LINK_HERE](https://souvik-saha04.github.io/Neuronex/))**
 ---
 
 ## 📌 Table of Contents
@@ -56,8 +56,8 @@ Neuronex ships three distinct interfaces for three distinct audiences:
 
 | Interface | Link | Status |
 |-----------|------|--------|
-| 🛡️ Admin Side (Hospital / Super Admin) | [**→ Open Admin UI**](https://souvik-saha04.github.io/MedAxis/homepage1Prateek.html) | 🟢 Live |
-| 📱 Client Side (User / Mobile pages) | [**→ Open Client UI**](https://souvik-saha04.github.io/MedAxis/homepage1Prateek.html) | 🟢 Live |
+| 🛡️ Admin Side (Hospital / Super Admin) | [**→ Open Admin UI**](https://github.com/Souvik-saha04/neuronex-admin.git) | 🟢 Live |
+| 📱 Client Side (User / Mobile pages) | [**→ Open Client UI**](https://github.com/Souvik-saha04/neuronex-user.git) | 🟢 Live |
 
 > ⚡ Click the links above to explore the working prototypes.
 
